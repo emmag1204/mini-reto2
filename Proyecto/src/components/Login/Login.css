@@ -1,0 +1,32 @@
+.registro{
+  margin-top: 5rem;
+}
+
+.textito{
+  border-radius: 1rem;
+  color: black;
+  font-family: "Peace Sans";
+  padding: 1.5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.boton-ingreso{
+  font-family: "Peace Sans";
+  margin-top: 3rem;
+}
+
+.MDBBtn {
+  border-radius: 10px;
+  background-color: rgb(234, 209, 247);
+  color: black;
+  font-family: "Peace Sans";
+}
+  
+.MDBBtn:hover {
+  background-color: rgb(255, 253, 142);
+  color: black;
+}
+  

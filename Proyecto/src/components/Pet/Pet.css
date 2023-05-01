@@ -1,0 +1,27 @@
+.Pet{
+    background-color: rgb(234, 209, 247);
+    color:black;
+    font-family: "Peace Sans";
+    padding: 3rem;   
+}
+
+.fila{
+    grid-gap: 1rem;
+    background-color: rgb(255, 253, 142);   
+    margin: 0;
+    border-radius: 5rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.mascotita{
+    width: 15rem;
+    height: 20rem;
+    text-align: center;
+    font-size: 1.5rem;
+    margin-top: 1rem;
+    margin-bottom: 0;
+    
+}

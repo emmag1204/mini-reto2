@@ -1,0 +1,26 @@
+.nueva{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 3rem;
+}
+
+.nueva h2, .nueva h4{
+    font-family: "Peace Sans";
+    padding: 1.5rem;
+    color: black;
+}
+
+.form-control{
+    border-radius: 1rem;
+    background-color: rgb(234, 209, 247);
+    color: black;
+    font-family: "Peace Sans";
+    padding: 1.5rem;
+    width: 40%;
+}
+
+.botonsito{
+    font-family: "Peace Sans";
+}
