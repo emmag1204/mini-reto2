@@ -57,6 +57,7 @@ Una vez que hayas agregado una mascota, podrás verla en la pestaña "Home". Des
 
 ## Authors
 Emma Gabriela Alfaro de la Rocha
+
 Pablo Gutierrez Costales
 
 
