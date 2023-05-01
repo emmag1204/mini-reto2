@@ -54,7 +54,7 @@ Una vez que hayas agregado una mascota, podrás verla en la pestaña "Home". Des
 
 
 
-
+Todo el desarrollo del proyecot y código, se encuentra dentro de la rama "Master" en este mismo repositorio
 ## Authors
 Emma Gabriela Alfaro de la Rocha
 
