@@ -15,10 +15,8 @@ app.use(cors(corsOptions));
 app.use(express.json());
 
 const connection = mysql.createConnection({
-  host: '192.168.1.79',
-  user: 'root',
-  password: 'root',
-  database: 'minireto',
+
+ 
 });
 
 app.get('/', (req, res) => {
